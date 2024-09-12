@@ -1,3 +1,18 @@
+<p align="center">
+<a href="https://github.com/u3d-do/U3D.DO/blob/master/LICENSE">
+  <img src="https://img.shields.io/badge/license-MIT-blue.svg" title="license-mit" /></a>
+<a href="https://ci.appveyor.com/project/u3d-do/U3D.DO">
+  <img src="https://ci.appveyor.com/api/projects/status/tk3o571mwbw2rykj?svg=true" title="Build status"/></a>
+<a href="https://github.com/u3d-do/U3D.DO/">
+  <img src="https://img.shields.io/badge/version-v1-green.svg" title="GitHub version" ></a>
+<a href="https://github.com/u3d-do/U3D.DO/releases">
+  <img src="https://img.shields.io/badge/Download-1k-green.svg" title="Downloads" /></a>
+<a href="https://github.com/u3d-do/U3D.DO">
+  <img src="https://img.shields.io/github/stars/u3d-do/U3D.DO.svg?style=social&label=Stars" title="GitHub stars" /></a>
+<a href="https://github.com/u3d-do/U3D.DO">
+  <img src="https://img.shields.io/github/forks/u3d-do/U3D.DO.svg?style=social&label=Fork" title="GitHub forks" /></a>
+</p>
+
 # U3D.DO
 
 U3D_DO 是一个模块化、可扩展的 Unity 框架，旨在通过多个独立模块的组合，为开发者提供灵活、易用的工具集，以提升游戏开发效率。每个模块可以单独使用，也可以组合使用。所有模块以 `com.u3d_do.unity.` 为命名空间前缀。
