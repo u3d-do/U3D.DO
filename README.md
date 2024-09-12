@@ -60,6 +60,36 @@ U3D_DO 是一个模块化、可扩展的 Unity 框架，旨在通过多个独立
 2. **依赖关系**：请确保导入的模块符合其依赖关系，例如 `com.u3d_do.unity.ui` 依赖 `com.u3d_do.unity.res` 和 `com.u3d_do.unity.hot`。
 3. **定制化**：根据项目需求，您可以定制每个模块的功能。
 
+您也可以通过 issues 来提出您的问题，我们及时为您解答。
+
+请不要提问「现成」问题，即那些简单搜一搜就能得到答案的，对经验和洞察力几乎没有要求的问题。 
+
+详请参考《[提问的智慧](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)》
+
+
+## 友情链接
+
+- [QFramework](https://github.com/liangxiegame/QFramework) QFramework 是一套 渐进式 的 快速开发 框架。目标是作为无框架经验的公司、独立开发者、以及 Unity3D 初学者们的 第一套框架。框架内部积累了多个项目的在各个技术方向的解决方案。学习成本低，接入成本低，重构成本低，二次开发成本低，文档内容丰富(提供使用方式以及原理、开发文档)。
+
+- [XAssets](https://github.com/xasset/xasset) xasset 提供了一种使用资源路径的简单的方式来加载资源，简化了Unity项目资源打包，更新，加载，和回收的作业流程。 ([@吉缘](https://github.com/mmdnb))
+
+- [GameFramework](http://gameframework.cn/) 是一个基于 Unity 5.3+ 引擎的游戏框架，主要对游戏开发过程中常用模块进行了封装，很大程度地规范开发过程、加快开发速度并保证产品质量。（[@Ellan](https://github.com/EllanJiang)）
+
+- [ET框架](https://github.com/egametang/ET) 是一个Unity3d客户端+C#分布式服务端框架。使用组件式开发，提供客户端热更，服务端热更功能，提供erlang式分布式消息机制（[@熊猫](https://github.com/egametang)）
+
+- [华佗/HyBridCLR](https://github.com/focus-creative-games/hybridclr) 是一个特性完整、零成本、高性能、低内存的近乎完美的Unity全平台原生c#热更新解决方案。
+
+
 ## 贡献
 
 欢迎对该框架的贡献！如果您有任何想法、反馈或建议，欢迎提交 Issue 或 Pull Request。
+
+[![Stargazers over time](https://starchart.cc/tdouguo/KIT.svg)](https://starchart.cc/tdouguo/KIT)
+
+---
+
+## 鸣谢
+
+感谢 [JetBrains](https://www.jetbrains.com/?from=real-url) 提供的 free JetBrains Open Source license
+
+[![JetBrains-logo](https://i.loli.net/2020/10/03/E4h5FZmSfnGIgap.png)](https://www.jetbrains.com/?from=real-url)
