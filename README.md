@@ -84,7 +84,7 @@ U3D_DO 是一个模块化、可扩展的 Unity 框架，旨在通过多个独立
 
 欢迎对该框架的贡献！如果您有任何想法、反馈或建议，欢迎提交 Issue 或 Pull Request。
 
-[![Stargazers over time](https://starchart.cc/tdouguo/KIT.svg)](https://starchart.cc/tdouguo/KIT)
+[![Stargazers over time](https://starchart.cc/u3d-do/U3D.DO.svg)](https://starchart.cc/u3d-do/U3D.DO)
 
 ---
 
